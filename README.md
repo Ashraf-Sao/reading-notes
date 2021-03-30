@@ -29,5 +29,17 @@ SS
 
  # Thank you for taking time to read my thoughts on growth mindset topic
 
- 
+
+
+
+
+
+
+|Read | | Link|
+--- | --- | ---
+| Read 1||[link1](https://github.com/Ashraf-Sao/reading-notes)|
+|   Read 2  |[link2](https://github.com/Ashraf-Sao/reading-notes)   |
+|  Read 3   |[link3](https://github.com/Ashraf-Sao/reading-notes)  |
+
+
 
