@@ -20,7 +20,8 @@ SS
 - Good diet
 - Meditation
 
-        when I feel overwhealmed I walk away for 5 minutes and come back whem I feel refreshed and charged 
+        when I feel overwhealmed I walk away for 5 minutes and
+        come back whem I feel refreshed and charged 
 
 
 
