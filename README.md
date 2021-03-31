@@ -36,11 +36,11 @@ SS
 
 
 
-|Read | | Link|
---- | --- | ---
-| Read 1||[link1](https://github.com/Ashraf-Sao/reading-notes)|
-|   Read 2  |[link2](https://github.com/Ashraf-Sao/reading-notes)   |
-|  Read 3   |[link3](https://github.com/Ashraf-Sao/reading-notes)  |
+|Read     |   Link|
+|---      | ---   | 
+| Read 1|[link1](read1.md)|
+|   Read 2  |[link2](read02a.md)   |
+|  Read02b   |[link3](read02b.md)  |
 
 
 
