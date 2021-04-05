@@ -36,14 +36,16 @@ test
 
 
 
-|Read     |   Link|
-|---      | ---   | 
-| Read 1|[link1](read1)|
-|   Read 2  |[link2](read02a)   |
-|  Read02b   |[link3](read02b)  |
-|  Read3  |[link3](read3)  |
-|  Read4  |[link4](read4)  |
-|  Read5  |[link5](read5)  |
+|Read      |   Link         |
+|---       | ---            | 
+| Read 1|  [link1] (read1)  |
+|  Read 2  |[link2](read02a)|
+|  Read02b |[link3](read02b)|
+|  Read3   |[link3](read3)  |
+|  Read4   |[link4](read4)  |
+|  Read5   |[link5](read5)  |
+|  Read6   |[link6](read6)  |
+
 
 
 
