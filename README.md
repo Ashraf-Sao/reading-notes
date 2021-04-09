@@ -1,4 +1,4 @@
-# reading-notes
+# 102 reading-notes
 
 **Growth Mindset**
 
@@ -47,7 +47,22 @@ test
 |  Read6   |[link6](read6)  |
 
 
+___
 
-
-
-
+# 201 Reading Notes 
+|Read       |   Link         |
+|---        | ---            | 
+|  Read 1   |[]()  |
+|  Read 2   |[]()  |
+|  Read 3   |[]()  |
+|  Read 4   |[]()  |
+|  Read 6   |[]()  |
+|  Read 7   |[]()  |
+|  Read 8   |[]()  |
+   Read 9   |[]()  |
+|  Read 10  |[]()  |
+|  Read 11  |[]()  |
+|  Read 12  |[]()  |
+|  Read 13  |[]()  |
+|  Read 14  |[]()  |
+|  Read 15  |[]()  |
