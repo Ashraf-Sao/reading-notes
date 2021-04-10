@@ -52,7 +52,7 @@ ___
 # 201 Reading Notes 
 |Read       |   Link         |
 |---        | ---            | 
-|  Read 1   |[]()  |
+|  read 1   |[class-01.md ]()  |
 |  Read 2   |[]()  |
 |  Read 3   |[]()  |
 |  Read 4   |[]()  |
