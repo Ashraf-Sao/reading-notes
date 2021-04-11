@@ -50,9 +50,10 @@ test
 ___
 
 # 201 Reading Notes 
+
 |Read       |   Link         |
 |---        | ---            | 
-|  read 1   |[class-01.md ]()  |
+|  read 1   |[Class-01](class-01.md)  |
 |  Read 2   |[]()  |
 |  Read 3   |[]()  |
 |  Read 4   |[]()  |
