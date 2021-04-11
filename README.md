@@ -54,7 +54,7 @@ ___
 |Read       |   Link         |
 |---        | ---            | 
 |  read 1   |[Class-01](class-01.md)  |
-|  Read 2   |[]()  |
+|  Read 2   |[class-02](class-02.md)  |
 |  Read 3   |[]()  |
 |  Read 4   |[]()  |
 |  Read 6   |[]()  |
