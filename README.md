@@ -57,7 +57,7 @@ ___
 |  Read 2   |[class-02](class-02.md)  |
 |  Read 3   |[class-03](class-03.md)  |
 |  Read 4   |[class-04](class-04.md)  |
-|  Read 6   |[]()  |
+|  Read 6   |[class-05](class-05.md)  |
 |  Read 7   |[]()  |
 |  Read 8   |[]()  |
    Read 9   |[]()  |
