@@ -52,15 +52,16 @@ ___
 # 201 Reading Notes 
 
 |Read       |   Link         |
-|---        | ---            | 
+|---        | ---            |
 |  read 1   |[Class-01](class-01.md)  |
 |  Read 2   |[class-02](class-02.md)  |
 |  Read 3   |[class-03](class-03.md)  |
 |  Read 4   |[class-04](class-04.md)  |
-|  Read 6   |[class-05](class-05.md)  |
+|  Read 5   |[class-05](class-05.md)  |
+|  Read 6   |[class-06](class-06.md)  |
 |  Read 7   |[]()  |
 |  Read 8   |[]()  |
-   Read 9   |[]()  |
+|  Read 9   |[]()  |
 |  Read 10  |[]()  |
 |  Read 11  |[]()  |
 |  Read 12  |[]()  |
