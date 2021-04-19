@@ -86,4 +86,4 @@ below is an image from the Js Duckett that shows what syntax to use when working
 <img src ="images/date-objects.png"/>
 
 ---
-this sums up today's read, thank you for taking the time to read iy
+this sums up today's read, thank you for taking the time to read it
