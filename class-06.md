@@ -1,4 +1,4 @@
-### Hello again 
+### Hello again
 
 today's read is going to be dense with information, so lets get going
 
@@ -6,9 +6,9 @@ today's read is going to be dense with information, so lets get going
 
 an object is a group of a set variables and functions that we can work with in web developement, depending on the use an object can change the way we deal with vriables and functions, for example in an object a variables becomes known as properties and if a function is part of an object it becomes a method
 
-now that we have a clearer definition of what's an object, what is an object literal, 
+now that we have a clearer definition of what's an object, what is an object literal,
 
-literal notation is the easiest and the most common way to create objects 
+literal notation is the easiest and the most common way to create objects
 
 > The Object literal notation is basically an array of key:value pairs, with a colon separating the keys and values, and a comma after every key:value pair, except for the last, just like a regular array. Values created with anonymous functions are methods of your object. Simple values are properties.
 
@@ -16,12 +16,13 @@ literal notation is the easiest and the most common way to create objects
 
 we create object litterals to call out functions in a cleaner way, and inside these object litterals we can manipulate and change variables to our advantage and our best use
 
-we can access it using dot notations or square brackets, see example below 
+we can access it using dot notations or square brackets, see example below
 
 <img src="images/object litterals .png" alt="object litterals">
 
 ---
 ---
+
 # Document Object Model
 
 what is a document object model?
@@ -39,19 +40,19 @@ first it accesses element, then it access the text, image, links within it,
 
 this method helps us access content faster and makes the webpage appear smoother to the user, creating a tree and nodes within that tree is for sure the best way to make web surfing better
 
-we should keep in mind that there two methods that nodes 
+we should keep in mind that there two methods that nodes
 
 1- methods that return one node like **getElementByID** ('id') which selects one element, or **querySelector** ('css selector) and this method returns the first matching element
 
 2- methods that return nodelist such as **getElementByClassName** ('class') this selects one or more elements by its class name, or the **getElementByTagName** ('TagName')and this one selects all the element in the page via the specified tage name, and finally the **querySelectorAll** ('css selector) this uses a css selector syntax and and returns all the elements that match it,
 
-methods to access a single node from a nodelist, 
+methods to access a single node from a nodelist,
  
- * The item method() you specify the index number which will return a single node from the node list , if it finds more than one element it runs the code in the If statement, then stores the first element from the Nodelist and calls it firstItem
+* The item method() you specify the index number which will return a single node from the node list , if it finds more than one element it runs the code in the If statement, then stores the first element from the Nodelist and calls it firstItem
 
- * array syntax this method provides faster node selecting process, because it creates a list containing elements and stores it as a nodelist, then if that numbr is greater or equal to one it runs the code inside the if statement then it gets the first element from inside the if statement 
+* array syntax this method provides faster node selecting process, because it creates a list containing elements and stores it as a nodelist, then if that numbr is greater or equal to one it runs the code inside the if statement then it gets the first element from inside the if statement
 
- we can repeat actions for an entire nodelist, and apply the same statement to each one, 
+ we can repeat actions for an entire nodelist, and apply the same statement to each one,
 
  Looping through a nodelist
 
