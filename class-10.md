@@ -46,3 +46,5 @@ Finally: the contents of a a finally block will run wheather the try and catch b
 we can always use other ways to debug an errors like earching on google the error message or try running the code with another browser, or go to stackoverflow to ask fellow developers for a solution to our problem
 
 and we should always keep in mind that Javascript is case sensitive so keep an eye out for mispelled charachters, and or extra or missing charachters, or sometimes a missed semi colon or any data type issue
+
+thank you for taking the time to read my thoughts on what I read from this chapter
