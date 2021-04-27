@@ -51,20 +51,21 @@ ___
 
 # 201 Reading Notes 
 
-|Read       |   Link                  |
-|---        | ---                     |
-|  read 1   |[Class-01](class-01.md)  |
-|  Read 2   |[class-02](class-02.md)  |
-|  Read 3   |[class-03](class-03.md)  |
-|  Read 4   |[class-04](class-04.md)  |
-|  Read 5   |[class-05](class-05.md)  |
-|  Read 6   |[class-06](class-06.md)  |
-|  Read 7   |[class-07](class-07.md)  |
-|  Read 8   |[class-08](class-08.md)  |
-|  Read 9   |[class-09](class-09.md)  |
-|  Read 10  |[class-10](class-10.md)  |
-|  Read 11  |[class-11](class-11.md)  |
-|  Read 12  |[class-12](class-12.md)  |
-|  Read 13  |[class-13](class-13.md)  |
-|  Read 14  |[]()  |
-|  Read 15  |[]()  |
+|Read        |   Link                    |
+|---         | ---                       |
+|  read 1    |[Class-01](class-01.md)    |
+|  Read 2    |[class-02](class-02.md)    |
+|  Read 3    |[class-03](class-03.md)    |
+|  Read 4    |[class-04](class-04.md)    |
+|  Read 5    |[class-05](class-05.md)    |
+|  Read 6    |[class-06](class-06.md)    |
+|  Read 7    |[class-07](class-07.md)    |
+|  Read 8    |[class-08](class-08.md)    |
+|  Read 9    |[class-09](class-09.md)    |
+|  Read 10   |[class-10](class-10.md)    |
+|  Read 11   |[class-11](class-11.md)    |
+|  Read 12   |[class-12](class-12.md)    |
+|  Read 13   |[class-13](class-13.md)    |
+|  Read 14a  |[class-14a](class-14a.md)  |
+|  Read 14b  |[class-14b](class-14b.md)  |
+|  Read 15   |[]()  |
