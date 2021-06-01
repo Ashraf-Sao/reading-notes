@@ -35,7 +35,7 @@ test
 
 
 
-
+# Code 102 - Intro to Software Development
 |Read      |   Link         |
 |---       | ---            | 
 | Read 1|  [link1] (read1)  |
@@ -49,7 +49,7 @@ test
 
 ___
 
-# 201 Reading Notes 
+# Code 201 - Foundations of Software Development
 
 |Read        |   Link                    |
 |---         | ---                       |
@@ -70,7 +70,7 @@ ___
 |  Read 14b  |[class-14b](class-14b.md)  |
 
 
-# 301 Reading Notes
+# Code 301 - Intermediate Software Development
 
 |    Read     |    Link   |    notes  |
 | ---         |  ---      | ---       |
