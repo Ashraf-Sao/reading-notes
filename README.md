@@ -28,13 +28,15 @@ SS
 >“If you can dream it, you can do it.” – Walt Disney.
 
 
- # Thank you for taking time to read my thoughts on growth mindset topic
+ #### Thank you for taking time to read my thoughts on growth mindset topic
+
+---
+
+## Things I want to learn more about
 
 
-test
-
-
-
+---
+## **Reads**
 # Code 102 - Intro to Software Development
 |Read      |   Link         |
 |---       | ---            | 
@@ -72,20 +74,20 @@ ___
 
 # Code 301 - Intermediate Software Development
 
-|    Read     |    Link   |    notes  |
-| ---         |  ---      | ---       |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
-|             |           |           |
+|    Read     |        Link               |
+| ---         |  ---                      |
+|  Read 1     | [Read1-301](Read1-301.md) |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
+|             |                           |
 
 
