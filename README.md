@@ -29,15 +29,12 @@ SS
 
 
  #### Thank you for taking time to read my thoughts on growth mindset topic
-
+___
 ---
+ **Reads**
+ ____
 
-## Things I want to learn more about
-
-
----
-## **Reads**
-# Code 102 - Intro to Software Development
+### Code 102 - Intro to Software Development
 |Read      |   Link         |
 |---       | ---            | 
 | Read 1|  [link1] (read1)  |
@@ -48,10 +45,10 @@ SS
 |  Read5   |[link5](read5)  |
 |  Read6   |[link6](read6)  |
 
-
+___
 ___
 
-# Code 201 - Foundations of Software Development
+### Code 201 - Foundations of Software Development
 
 |Read        |   Link                    |
 |---         | ---                       |
@@ -71,13 +68,15 @@ ___
 |  Read 14a  |[class-14a](class-14a.md)  |
 |  Read 14b  |[class-14b](class-14b.md)  |
 
+___
+___
 
-# Code 301 - Intermediate Software Development
+### Code 301 - Intermediate Software Development
 
 |    Read     |        Link               |
 | ---         |  ---                      |
 |  Read 1     | [Read1-301](Read1-301.md) |
-|             |                           |
+|  Read 2     | [Read2-301](Read2-301.md) |
 |             |                           |
 |             |                           |
 |             |                           |
@@ -91,3 +90,9 @@ ___
 |             |                           |
 
 
+___
+---
+
+## Things I want to learn more about
+
+1 - What do we mean by "hoisting"?
