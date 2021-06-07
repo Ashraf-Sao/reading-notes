@@ -77,7 +77,7 @@ ___
 | ---         |  ---                      |
 |  Read 1     | [Read1-301](Read1-301.md) |
 |  Read 2     | [Read2-301](Read2-301.md) |
-|             |                           |
+|  Read 3     | [Read3-301](Read3-301.md) |
 |             |                           |
 |             |                           |
 |             |                           |
@@ -96,3 +96,4 @@ ___
 ## Things I want to learn more about
 
 1 - What do we mean by "hoisting"?
+it is when we want to show our website to the world via a server or github or netlify
