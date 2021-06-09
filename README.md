@@ -24,26 +24,24 @@ SS
         come back whem I feel refreshed and charged 
 
 
-
 >“If you can dream it, you can do it.” – Walt Disney.
 
-
- #### Thank you for taking time to read my thoughts on growth mindset topic
 ___
----
- **Reads**
- ____
+
+#### Reads
+
 
 ### Code 102 - Intro to Software Development
-|Read      |   Link         |
-|---       | ---            | 
-| Read 1|  [link1] (read1)  |
-|  Read 2  |[link2](read02a)|
-|  Read02b |[link3](read02b)|
-|  Read3   |[link3](read3)  |
-|  Read4   |[link4](read4)  |
-|  Read5   |[link5](read5)  |
-|  Read6   |[link6](read6)  |
+
+|   Read     |   Link         |
+|   ---      | ---            | 
+|    Read 1  |[link1](read1)  |
+|    Read 2  |[link2](read02a)|
+|    Read02b |[link3](read02b)|
+|    Read3   |[link3](read3)  |
+|    Read4   |[link4](read4)  |
+|    Read5   |[link5](read5)  |
+|    Read6   |[link6](read6)  |
 
 ___
 ___
